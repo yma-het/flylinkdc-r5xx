@@ -383,9 +383,9 @@ void CFlyServerConfig::loadConfig()
 		CFlyLog l_fly_server_log("[fly-server]");
 		LPCSTR l_res_data;
 		std::string l_data;
-#ifdef _DEBUG
-		 //#define USE_FLYSERVER_LOCAL_FILE
-#endif
+//#ifdef _DEBUG
+		 #define USE_FLYSERVER_LOCAL_FILE
+//#endif
 		const auto l_path_local_test_file = Text::toT(Util::getExePath()) + _T("fly-server-getip.config");
 		if (File::isExist(l_path_local_test_file))
 		{

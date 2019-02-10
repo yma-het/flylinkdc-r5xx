@@ -19,7 +19,7 @@
 		support_hub = "dchub://dc.fly-server.ru"
 		support_hub_en = "dchub://dc.fly-server.ru"
 		antivirus_db = ""
-		hublist_url = "http://www.te-home.net/?do=hublist&amp;get=hublist.xml.bz2,http://dchublist.ru/hublist.xml.bz2,http://dchublist.biz/?do=hublist.xml.bz2"
+		hublist_url = "http://hublist.org.nz/HubList.xml.bz2,http://www.thehublist.com/?do=hublist.xml.bz2,http://dchublist.org/hublist.xml.bz2,https://dchublists.com/?id=2&amp;title=Public+hublist+file+xml.bz2,http://dchublist.biz/?do=hublist.xml.bz2,http://dchublist.ru/hublist.xml.bz2,http://hublist.eu/hublist.xml.bz2,https://tankafett.biz/?do=hublist&amp;get=hublist.xml.bz2,https://dchublist.ru/hublist.xml.bz2,https://www.te-home.net/?do=hublist&amp;get=hublist.xml.bz2,https://dchublist.org/hublist.xml.bz2,http://hublist.flexhub.org/hublist.xml.bz2,http://hublist.openhublist.org/hublist.xml.bz2,http://dchublist.com/ro.hublist.xml.bz2,http://dchublist.com/hublist.xml.bz2,http://dchublist.com/ro.hublist.xml.bz2,http://dchublist.com/hublist.xml.bz2,http://dchublist.com/ru.hublist.xml.bz2,http://dchublist.com/it.hublist.xml.bz2,http://dchublist.com/pl.hublist.xml.bz2,http://dchublist.com/nl.hublist.xml.bz2,http://dchublist.com/se.hublist.xml.bz2,http://dchublist.com/us.hublist.xml.bz2,http://dchublist.com/hu.hublist.xml.bz2,http://dchublist.com/gb.hublist.xml.bz2,http://dchublist.com/en.hublist.xml.bz2,http://dchublist.com/ua.hublist.xml.bz2,http://dchublist.com/fi.hublist.xml.bz2,http://dchublist.com/de.hublist.xml.bz2,http://dchublist.com/lt.hublist.xml.bz2,http://dchublist.com/cz.hublist.xml.bz2,http://dchublist.com/in.hublist.xml.bz2,http://dchublist.com/eu.hublist.xml.bz2"
 		max_size_for_virus_detect = "10485760"
 		unique_files_for_virus_detect = "3"
 		min_file_size ="30000"
